@@ -10,6 +10,5 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-```python
-print('Hello, world!')
-```
+- [ ] 任务列表
+- [x] 完成
