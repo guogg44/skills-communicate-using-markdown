@@ -10,3 +10,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+```python
+print('Hello, world!')
+```
